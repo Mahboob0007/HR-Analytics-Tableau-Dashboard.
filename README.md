@@ -9,5 +9,3 @@ Analyze demographics such as gender, education, and marital status distribution.
 Monitor employee performance, job satisfaction, and tenure.
 
 Provide actionable insights for HR decision-making.
-
-Here are sample views from the dashboard:

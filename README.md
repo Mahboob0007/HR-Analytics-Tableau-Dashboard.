@@ -10,7 +10,7 @@ Monitor employee performance, job satisfaction, and tenure.
 
 Provide actionable insights for HR decision-making.
 
-Like to get access in Tableau Public:
+Here is the link to get access in Tableau Public:
 https://public.tableau.com/app/profile/mahboob.ali6639/viz/HRAnalyticsdashboard_17554260680840/HRAnalyticsDashboard
 
 
